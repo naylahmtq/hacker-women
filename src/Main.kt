@@ -25,3 +25,5 @@ fun sekolah(){
     println(famous)
 }
 var satu = "satu"
+
+var salam = "wlc hacker"

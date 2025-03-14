@@ -2,6 +2,7 @@ fun main() {
     judulbuku()
     judulfilm()
     judulseries()
+    sekolah()
 }
 
 fun judulbuku() {
@@ -17,5 +18,10 @@ fun judulfilm() {
 fun judulseries() {
     var series = "Queen of Tears"
     println(series)
+}
+
+fun sekolah(){
+    var famous = "MAN IC"
+    println(famous)
 }
 

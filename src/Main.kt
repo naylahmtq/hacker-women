@@ -24,4 +24,4 @@ fun sekolah(){
     var famous = "MAN IC"
     println(famous)
 }
-
+var satu = "satu"
